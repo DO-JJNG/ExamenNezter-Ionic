@@ -1,0 +1,78 @@
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.exe
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.deps.json
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.runtimeconfig.json
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.pdb
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.csproj.AssemblyReference.cache
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.AssemblyInfoInputs.cache
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.AssemblyInfo.cs
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.ExamenNezterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ExamenNezterAPI.props
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExamenNezterAPI.props
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExamenNezterAPI.props
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\scopedcss\bundle\ExamenNezterAPI.styles.css
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.csproj.CopyComplete
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\refint\ExamenNezterAPI.dll
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.pdb
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.genruntimeconfig.cache
+C:\Users\Navia\OneDrive\Escritorio\examen nezter\ExamenNezter_Navia\ExamenNezterAPI\ExamenNezterAPI\obj\Debug\net6.0\ref\ExamenNezterAPI.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.exe
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.deps.json
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.runtimeconfig.json
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\ExamenNezterAPI.pdb
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.csproj.AssemblyReference.cache
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.AssemblyInfoInputs.cache
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.AssemblyInfo.cs
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.csproj.CoreCompileInputs.cache
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.ExamenNezterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ExamenNezterAPI.props
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ExamenNezterAPI.props
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ExamenNezterAPI.props
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\scopedcss\bundle\ExamenNezterAPI.styles.css
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.csproj.CopyComplete
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\refint\ExamenNezterAPI.dll
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.pdb
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ExamenNezterAPI.genruntimeconfig.cache
+C:\Users\JoséJuliánNaviaGamez\OneDrive - Nezter Solutions\Escritorio\Examen\Recursos\ExamenNezterApi-master\ExamenNezterApi-master\ExamenNezterAPI\obj\Debug\net6.0\ref\ExamenNezterAPI.dll
